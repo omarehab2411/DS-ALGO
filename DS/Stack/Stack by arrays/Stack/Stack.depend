@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1607162848 source:c:\users\omar ehab\desktop\ds and algo\codes\ds\stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1607161974 source:c:\users\omar ehab\desktop\ds and algo\codes\ds\stack\stack.c
+	"stack.h"
+
+1607162900 c:\users\omar ehab\desktop\ds and algo\codes\ds\stack\stack.h
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1611947094 source:d:\docs\embedded\ds and algo\codes\ds\graphs\adjanceylist\main.c
+	"graph.h"
+
+1611945640 d:\docs\embedded\ds and algo\codes\ds\graphs\adjanceylist\graph.h
+	<stdio.h>
+	<stdlib.h>
+
+1611947577 source:d:\docs\embedded\ds and algo\codes\ds\graphs\adjanceylist\graph.c
+	"graph.h"
+

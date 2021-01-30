@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1611679174 source:d:\docs\embedded\ds and algo\codes\ds\hash table\hashtable\hashtable.c
+	"hashTable.h"
+
+1611679221 d:\docs\embedded\ds and algo\codes\ds\hash table\hashtable\hashtable.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+
+1611679201 source:d:\docs\embedded\ds and algo\codes\ds\hash table\hashtable\main.c
+	"hashTable.h"
+

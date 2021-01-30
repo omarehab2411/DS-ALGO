@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1607210321 source:c:\users\omar ehab\desktop\ds and algo\codes\ds\queues\queue\queue.c
+	"queue.h"
+
+1607210181 c:\users\omar ehab\desktop\ds and algo\codes\ds\queues\queue\queue.h
+	<stdio.h>
+	<stdlib.h>
+
+1607210405 source:c:\users\omar ehab\desktop\ds and algo\codes\ds\queues\queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
+1608336397 source:c:\users\omar ehab\desktop\ds and algo\codes\ds\queues\ring buffer\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
+1608335234 c:\users\omar ehab\desktop\ds and algo\codes\ds\queues\ring buffer\queue.h
+	<stdio.h>
+	<stdlib.h>
+
+1608336339 source:c:\users\omar ehab\desktop\ds and algo\codes\ds\queues\ring buffer\queue.c
+	"queue.h"
+

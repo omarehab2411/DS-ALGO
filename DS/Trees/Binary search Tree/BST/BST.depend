@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1611783745 source:d:\docs\embedded\ds and algo\codes\ds\trees\binary search tree\bst\bst.c
+	"BST.h"
+
+1611779460 d:\docs\embedded\ds and algo\codes\ds\trees\binary search tree\bst\bst.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1611783465 source:d:\docs\embedded\ds and algo\codes\ds\trees\binary search tree\bst\main.c
+	"BST.h"
+

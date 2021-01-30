@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1607145064 source:c:\users\omar ehab\desktop\ds and algo\codes\ds\stack by linkedlist\stack\list.c
+	"list.h"
+
+1607143723 c:\users\omar ehab\desktop\ds and algo\codes\ds\stack by linkedlist\stack\list.h
+	<stdio.h>
+	<stdlib.h>
+
+1607166583 source:c:\users\omar ehab\desktop\ds and algo\codes\ds\stack by linkedlist\stack\stack.c
+	"stack.h"
+
+1607166795 c:\users\omar ehab\desktop\ds and algo\codes\ds\stack by linkedlist\stack\stack.h
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+

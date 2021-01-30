@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1607143879 source:c:\users\omar ehab\desktop\ds and algo\codes\ds\linked lists\single linkedlist\linkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1606598923 source:c:\users\omar ehab\desktop\ds and algo\codes\ds\linked lists\single linkedlist\linkedlist\list.c
+	"list.h"
+
+1607143723 c:\users\omar ehab\desktop\ds and algo\codes\ds\linked lists\single linkedlist\linkedlist\list.h
+	<stdio.h>
+	<stdlib.h>
+
