@@ -22,10 +22,15 @@ Algorithsms
 7-Breadth first search
 8-Depth first search 
 
+More Resources
+---------------
 For Time Complexity of the above DS and Algo check this awesome website 
 https://www.bigocheatsheet.com/
 
 And if you find yourself struglling you could check this website which visualize various DS and Algorithm
 https://visualgo.net/en
+
+If you find this interesting and you want to learn more check out this free book 
+https://cses.fi/book/book.pdf
 
 Happy Coding !!!
