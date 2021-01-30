@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1611964848 source:d:\docs\embedded\ds and algo\codes\algo\search\dfs\main.c
+	<stdio.h>
+	<stdlib.h>
+

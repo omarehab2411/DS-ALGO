@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1611875725 source:d:\docs\embedded\ds and algo\codes\algo\sort\insertion sort\main.c
+	<stdio.h>
+	<stdlib.h>
+
